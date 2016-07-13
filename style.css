@@ -1,6 +1,7 @@
 body {
   background: linear-gradient(purple, pink);
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
     /*background-color: #756eff;*/
 }
